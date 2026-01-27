@@ -1,6 +1,8 @@
 # product-design
 Senior Product Designer – portfolio and documentation
 # Juliana Lima – Senior Product Designer
+🔗 **Portfolio**  
+https://julima.framer.website
 
 Senior Product Designer with 13+ years of experience designing complex digital products for fintech, SaaS and B2B/B2C platforms.
 
